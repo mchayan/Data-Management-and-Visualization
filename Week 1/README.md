@@ -18,7 +18,7 @@ After looking through NESARC codebook, firstly i decided to take into considerat
 ![period](https://github.com/mchayan/Data-Management-and-Visualization/blob/master/Week%201/Image/4.png)
 ![frequency](https://github.com/mchayan/Data-Management-and-Visualization/blob/master/Week%201/Image/5.png)
 ![major depression](https://github.com/mchayan/Data-Management-and-Visualization/blob/master/Week%201/Image/6.png)
-![general anxiety](https://github.com/mchayan/Data-Management-and-Visualization/blob/master/Week%201/Image/7.pngg)
+![general anxiety](https://github.com/mchayan/Data-Management-and-Visualization/blob/master/Week%201/Image/7.png)
 
 ## Literature review
 Taking into account the literature review I performed, using  Google Scholar, I found several academic studies and researches based on the relationship between cannabis use, depression and anxiety there was a moderate association between involvement with cannabis use in the past 12 months and the prevalence of affective and anxiety disorders. Among those with DSM-IV cannabis dependence, 14 % had affective disorder symptoms, compared to 6 % of non-users; while 17 % met criteria for an anxiety disorder, compared to 5 % of non-users [4]. These associations did not remain significant after including demographics, neuroticism and other drug use in multiple regressions. Cannabis use did not appear to be directly related to depression or anxiety when account was taken of other drug use. However, the association between heavier involvement with cannabis use and affective and anxiety disorders has implications for the treatment of persons with problematic cannabis use [4].
